@@ -31,7 +31,7 @@ namespace Smestuvanje {
 
                 var user = new ApplicationUser();
                 user.UserName = "nemesis";
-                user.Email = "abc@abc.com";
+                user.Email = "admin@a.b";
 
                 string userPWD = "Abc_123";
 
